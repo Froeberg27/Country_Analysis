@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Coral_Sea_Islands",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Coral Sea Islands", "ISO3166-1-Alpha-3": "-99", "ISO3166-1-Alpha-2": "-99" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 154.391287, -21.030043 ], [ 154.38852, -21.029067 ], [ 154.391287, -21.028741 ], [ 154.391287, -21.030043 ] ] ] } }
+]
+}
